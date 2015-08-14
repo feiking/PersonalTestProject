@@ -9,5 +9,5 @@
     <!-- 把扩展名配置为action -->
     <constant name="struts.action.extension" value="action" />
     <constant name="struts.ongl.aloowStaticMethodAccess" value="true" />
-<bean class=" "></bean>
+
 </struts>
